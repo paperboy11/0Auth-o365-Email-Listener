@@ -1,3 +1,5 @@
+CODE BY https://gazellia.com/  
+
 module.exports = function (Config, Modules) {
 
     const msal = require('@azure/msal-node'); 
