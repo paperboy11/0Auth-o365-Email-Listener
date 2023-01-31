@@ -1,4 +1,4 @@
-CODE BY https://gazellia.com/  
+CODE BY https://gazellia.com/  EMAIL FOR CODING PROJECTS
 
 module.exports = function (Config, Modules) {
 
